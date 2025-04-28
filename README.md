@@ -28,5 +28,5 @@
 <br>
 <br>
 
-> _I can only try my best everyday..._
+> _I can only try my best every day..._
 
