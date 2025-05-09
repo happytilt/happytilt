@@ -26,6 +26,9 @@
  - Working SOC ╰(￣ω￣ｏ)
 
 <br>
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1094463" style='border:none;'></iframe>
+
 <br>
 
 > _I can only try my best every day..._
