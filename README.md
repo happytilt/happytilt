@@ -22,7 +22,8 @@
  - Running around in [PicoCTF](https://picoctf.org/)
  - Learning [BurpSuite](https://portswigger.net/web-security/dashboard)
  - Developing several Python scripts
- - Chronically on Discord... hmu! @happytilt (˵ •̀ ᴗ - ˵ ) ✧
+ - Chronically on Discord... 
+     - hmu! @happytilt (˵ •̀ ᴗ - ˵ ) ✧
  - Working SOC ╰(￣ω￣ｏ)
 
 <br>
