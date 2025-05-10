@@ -8,7 +8,7 @@
 
 <ins>**Studying!**</ins> (> ͡⎚ ω ͡⎚)>✎ 
 - Binary Exploitation
-- Web App Pentesting
+- Splunk and SPL
 - C & Python Programming
 <br>
 
