@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Klee+One&weight=600&size=50&duration=4000&pause=500&center=true&vCenter=true&color=FFB6C1&height=125&lines=%E3%80%8C%E3%82%84%E3%81%AF%E3%82%8D!%E3%80%8D)](https://git.io/typing-svg)
 
-#### ⋆.˚⟡ ࣪ ˖ _I'm happytilt, CyberSec student and a massive weeb!_ ⋆.˚⟡ ࣪ ˖
+#### ⋆.˚⟡ ࣪ ˖ _I'm happytilt, your average nerdy cybersecurity student!_ ⋆.˚⟡ ࣪ ˖
 
 <br>
 
