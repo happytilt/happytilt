@@ -7,21 +7,20 @@
 <br>
 
 <ins>**Studying!**</ins> (> ͡⎚ ω ͡⎚)>✎ 
-- Python Programming
-- Splunk
+- Python & C
+- Binary Exploitation
 - Web App Pentesting
 <br>
 
  <ins>**Certs!**</ins> ⸜(｡˃ ᵕ ˂ )⸝♡
  - _**Obtained:**_ CCNA | Sec+ | CEH
- - _**To-Do:**_ THM PT1 | BSCP | OSCP
+ - _**To-Do:**_ BSCP | OSCP
 
 <br>
 
  <ins>**What I'm up to?**</ins> (╹ -╹)?
- - Running around in [PicoCTF](https://picoctf.org/)
+ - Grinding [TryHackMe](https://tryhackme.com/)
  - Learning [BurpSuite](https://portswigger.net/web-security/dashboard)
- - Doing Juice Shop writeups
  - Chronically on Discord... 
      - hmu! @happytilt (˵ •̀ ᴗ - ˵ ) ✧
  - Working SOC ╰(￣ω￣ｏ)
@@ -29,5 +28,5 @@
 <br>
 <br>
 
-> _Rediscovering my love and passion,,,_
+> _it's time to lock in,,,_
 
