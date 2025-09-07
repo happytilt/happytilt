@@ -7,7 +7,9 @@
  - Binary Exploitation
  - Web App Pentesting
 
-<img align="right" src="https://tryhackme-badges.s3.amazonaws.com/happytilt.png" alt="Your Image Badge" />
+<p1>
+ <img align="right" src="https://tryhackme-badges.s3.amazonaws.com/happytilt.png" alt="Your Image Badge" />
+</p1>
 
  ᯓ★ <ins>**Certs!**</ins> ⸜(｡˃ ᵕ ˂ )⸝♡
   - _**Obtained:**_ CCNA | Sec+ | CEH
