@@ -7,6 +7,8 @@
  - Binary Exploitation
  - Web App Pentesting
 
+<img align="right" src="https://tryhackme-badges.s3.amazonaws.com/happytilt.png" alt="Your Image Badge" />
+
  ᯓ★ <ins>**Certs!**</ins> ⸜(｡˃ ᵕ ˂ )⸝♡
   - _**Obtained:**_ CCNA | Sec+ | CEH
   - _**To-Do:**_ BSCP | OSCP
@@ -17,7 +19,6 @@
   - Chronically on Discord... 
       - hmu! @happytilt (˵ •̀ ᴗ - ˵ ) ✧
   - Working SOC ╰(￣ω￣ｏ)
-
 <br>
 
 > _it's time to lock in,,,_
