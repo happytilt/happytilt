@@ -3,7 +3,7 @@
 </p1>
 
 ᯓ★ <ins>**Studying!**</ins> (> ͡⎚ ω ͡⎚)>✎ 
- - Python & C
+ - x86_64 Assembly and Reverse Engineering
  - Binary Exploitation
  - Web App Pentesting
 
@@ -13,11 +13,11 @@
 
  ᯓ★ <ins>**Certs!**</ins> ⸜(｡˃ ᵕ ˂ )⸝♡
   - _**Obtained:**_ CCNA | Sec+ | CEH
-  - _**To-Do:**_ BSCP | OSCP
+  - _**To-Do:**_ CWES | OSCP
 
  ᯓ★ <ins>**What I'm up to?**</ins> (╹ -╹)?
-  - Grinding [TryHackMe](https://tryhackme.com/p/happytilt)
-  - Learning [BurpSuite](https://portswigger.net/)
+  - Grinding [TryHackMe](https://tryhackme.com/p/happytilt) and HTB Academy (HTB-CAE0E83CA3)
+  - Creating CTF challenges (。﹏。*)
   - Chronically on Discord... 
       - hmu! @happytilt (˵ •̀ ᴗ - ˵ ) ✧
   - Working SOC ╰(￣ω￣ｏ)
