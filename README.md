@@ -24,5 +24,5 @@
   - Working SOC ╰(￣ω￣ｏ)
 <br>
 
-> _it's time to lock in,,,_
+> _does the wind blow in this world?_
 
