@@ -18,7 +18,8 @@
  ᯓ★ <ins>**What I'm up to?**</ins> (╹ -╹)?
   - Grinding [TryHackMe](https://tryhackme.com/p/happytilt) and HTB Academy (HTB-CAE0E83CA3)
   - Creating CTF challenges (。﹏。*)
-  - Chronically on Discord... 
+  - Working on [BeaconatorC2](https://github.com/CroodSolutions/BeaconatorC2)!
+  - Chronically on Discord...
       - hmu! @happytilt (˵ •̀ ᴗ - ˵ ) ✧
   - Working SOC ╰(￣ω￣ｏ)
 <br>
