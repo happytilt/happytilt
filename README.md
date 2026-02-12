@@ -3,9 +3,7 @@
 </p1>
 
 ᯓ★ <ins>**Studying!**</ins> (> ͡⎚ ω ͡⎚)>✎ 
- - x86_64 Assembly and Reverse Engineering
- - Binary Exploitation
- - Web App Pentesting
+ - SAL1
 
 <p1>
  <img align="right" src="https://tryhackme-badges.s3.amazonaws.com/happytilt.png" alt="Your Image Badge" />
@@ -13,11 +11,10 @@
 
  ᯓ★ <ins>**Certs!**</ins> ⸜(｡˃ ᵕ ˂ )⸝♡
   - _**Obtained:**_ CCNA | Sec+ | CEH
-  - _**To-Do:**_ CWES | OSCP
+  - _**To-Do:**_ SAL1 | CWES | OSCP
 
  ᯓ★ <ins>**What I'm up to?**</ins> (╹ -╹)?
   - Grinding [TryHackMe](https://tryhackme.com/p/happytilt) and HTB Academy (HTB-CAE0E83CA3)
-  - Creating CTF challenges (。﹏。*)
   - Working on [BeaconatorC2](https://github.com/CroodSolutions/BeaconatorC2)!
   - Chronically on Discord...
       - hmu! @happytilt (˵ •̀ ᴗ - ˵ ) ✧
