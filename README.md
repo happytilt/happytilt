@@ -6,7 +6,7 @@
 
  ᯓ★ <ins>**Certs!**</ins> ⸜(｡˃ ᵕ ˂ )⸝♡
   - _**Obtained:**_ CCNA | Sec+ | CEH
-  - _**To-Do:**_ SAL1 | CWES | OSCP
+  - _**To-Do:**_ SAL1 -> CWES -> BSCP
 
  ᯓ★ <ins>**What I'm up to?**</ins> (╹ -╹)?
   - Grinding [TryHackMe](https://tryhackme.com/p/happytilt) and HTB Academy (HTB-CAE0E83CA3)
