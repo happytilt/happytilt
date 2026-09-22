@@ -2,15 +2,15 @@
 <br>
 
 ᯓ★ <ins>**Studying!**</ins> (> ͡⎚ ω ͡⎚)>✎ 
- - SAL1
+ - CrowdStrike Query Language
 
  ᯓ★ <ins>**Certs!**</ins> ⸜(｡˃ ᵕ ˂ )⸝♡
-  - _**Obtained:**_ CCNA | Sec+ | CEH
-  - _**To-Do:**_ SAL1 -> CWES -> BSCP
+  - _**Obtained:**_ CCNA | Sec+ | CEH | SAL1
+  - _**To-Do:**_ SAL1✅ -> SAL2 -> ??
 
  ᯓ★ <ins>**What I'm up to?**</ins> (╹ -╹)?
   - Grinding [TryHackMe](https://tryhackme.com/p/happytilt) and HTB Academy (HTB-CAE0E83CA3)
-  - Working on [BeaconatorC2](https://github.com/CroodSolutions/BeaconatorC2)!
+  - Getting better at threat hunting
   - Chronically on Discord...
       - hmu! @happytilt (˵ •̀ ᴗ - ˵ ) ✧
   - Working SOC ╰(￣ω￣ｏ)
